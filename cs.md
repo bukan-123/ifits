@@ -33,4 +33,23 @@ Note: This template roughly follows the 2012 ACM Computing Classification System
 | Theory of Computation | Automata theory · Formal languages · Computability theory · Computational complexity theory · Models of computation · Quantum computing theory · Logic circuit theory · Cellular automata |
 | Information and coding theory | Coding theory · Channel capacity · Algorithmic information theory · Signal detection theory · Kolmogorov complexity |
 | Data structures and algorithms | Analysis of algorithms · Algorithm design · Data structures · Combinatorial optimization · Computational geometry · Randomized algorithms |
-| Programming language theory and formal methods | Formal semantics	Type theory	Compiler design	Programming languages	Formal verification	Automated theorem proving |
+| Programming language theory and formal methods | Formal semantics	· Type theory ·	Compiler design ·	Programming languages ·	Formal verification ·	Automated theorem proving |
+
+| Applied computer science | Subfield |
+| :---: | --- |
+| Computer graphics and visualization | 2D computer graphics · Computer animation · Rendering	· Mixed reality ·	Virtual reality ·	Solid modeling |
+| Image and sound processing | FFT algorithms	· Image processing · Speech recognition	· Data compression · Medical image computing · Speech synthesis |
+| Computational science, finance and engineering | Numerical analysis · Computational physics · Computational chemistry · Bioinformatics· Neuroinformatics · Psychoinformatics · Medical informatics · Computational engineering · Computational musicology |
+| Human–computer interaction | Affective computing · Brain–computer interface · Human-centered design · Physical computing · Social computing |
+| Software engineering | - |
+| Artificial intelligence | Computational learning theory	· Computer vision · Neural networks · Planning and scheduling · Natural language processing · Computational game theory · Evolutionary computation · Autonomic computing · Representation and reasoning · Pattern recognition · Robotics · Swarm intelligence |
+
+| Computer systems | subfield | 
+| :---: | --- |
+| Computer architecture and microarchitecture | Processing unit · Microarchitecture · Multiprocessing ·	Processor design · Ubiquitous computing · Systems architecture · Operating systems · Input/output · Embedded system · Real-time computing · Dependability · Interpreter |
+| Concurrent, parallel and distributed computing | - |
+| Computer networks | - |
+| Computer security and cryptography | - |
+| Databases and data mining | - |
+
+
