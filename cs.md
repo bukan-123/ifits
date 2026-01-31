@@ -1,11 +1,12 @@
 daftar isi 
-1. computer science - wikipedia
-2. field - computer science - wikipedia
+- [1] computer science - wikipedia
+- [2] field - computer science - wikipedia
+- [3] taxonomy - application software - wikipedia
 
-# computer science - wikipedia
+# [1] computer science - wikipedia
 Note: This template roughly follows the 2012 ACM Computing Classification System.
 
-| Field | Subfield |
+| field | subfield |
 | :---: | --- |
 | Hardware | Printed circuit board · Peripheral · Integrated circuit · Very-large-scale integration · System on a chip (SoC) · Energy consumption (green computing) · Electronic design automation · Hardware acceleration · Processor · Size / Form |
 | Computer systems organization	| Computer architecture · Computational complexity · Dependability · Embedded system · Real-time computing · Cyber-physical system · Fault tolerance · Wireless sensor network |
@@ -26,16 +27,16 @@ Note: This template roughly follows the 2012 ACM Computing Classification System
 | Applied computing	| Quantum computing · E-commerce · Enterprise software · Computational mathematics · Computational physics · Computational chemistry · Computational biology · Computational social science · Computational engineering · Differentiable computing · Computational healthcare · Digital art · Electronic publishing · Cyberwarfare · Electronic voting · Video games · Word processing · Operations research · Educational technology · Document management |
 | Specialized Platform Development | Thermodynamic computing |
 
-# field - computer science - wikipedia
+# [2] field - computer science - wikipedia
 
-| Theoretical computer science | Subfield |
+| Theoretical computer science | subfield |
 | :---: | --- |
 | Theory of Computation | Automata theory · Formal languages · Computability theory · Computational complexity theory · Models of computation · Quantum computing theory · Logic circuit theory · Cellular automata |
 | Information and coding theory | Coding theory · Channel capacity · Algorithmic information theory · Signal detection theory · Kolmogorov complexity |
 | Data structures and algorithms | Analysis of algorithms · Algorithm design · Data structures · Combinatorial optimization · Computational geometry · Randomized algorithms |
 | Programming language theory and formal methods | Formal semantics	· Type theory ·	Compiler design ·	Programming languages ·	Formal verification ·	Automated theorem proving |
 
-| Applied computer science | Subfield |
+| Applied computer science | subfield |
 | :---: | --- |
 | Computer graphics and visualization | 2D computer graphics · Computer animation · Rendering	· Mixed reality ·	Virtual reality ·	Solid modeling |
 | Image and sound processing | FFT algorithms	· Image processing · Speech recognition	· Data compression · Medical image computing · Speech synthesis |
@@ -52,4 +53,19 @@ Note: This template roughly follows the 2012 ACM Computing Classification System
 | Computer security and cryptography | - |
 | Databases and data mining | - |
 
+# [3] taxonomy - application software - wikipedia
 
+| use | e.g. |
+| :---: | --- |
+| General-purpose | Spreadsheet · Web browser |
+| Communication | Email · Presentation software |
+| Documentation | Desktop publishing software · Document automation · Text editor · Word processor |
+| Data management | Contact manager · Database management system · Digital asset management · Document management · Geographic information system |
+| Resource management | Digital calendar · Employee scheduling software · Enterprise resource planning · Field service management ( Workforce management software ) · Project management software · Reservation systems · Workflow software |
+| Financial software | Banking software · Clearing systems · Accounting software |
+| Educational | - |
+| Video game | Arcade video game · Console game · Mobile game · Personal computer game · Simulation game |
+| Simulation | Computational science · Social simulation · Military simulation · Flight simulator · Driving simulator |
+| Media | 3D computer graphics software · Animation software · Demoscene · Graphic art software ( Raster graphics editor · Vector graphics editor ) · Image organizer · Video editing software · Audio editing software ( Digital audio workstation ) · Music sequencer ( Scorewriter ) · Software art |
+| Hardware engineering | Computer-aided design · Computer-aided engineering · Computer-aided manufacturing · Finite element analysis |
+| Software development | Integrated development environment · Game development tool · HTML editor · License manager · Source code editor · Version control |
