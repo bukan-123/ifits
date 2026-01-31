@@ -1,4 +1,8 @@
-# computer science wikipedia
+daftar isi 
+1. computer science - wikipedia
+2. field - computer science - wikipedia
+
+# computer science - wikipedia
 Note: This template roughly follows the 2012 ACM Computing Classification System.
 
 | Field | Subfield |
@@ -22,7 +26,7 @@ Note: This template roughly follows the 2012 ACM Computing Classification System
 | Applied computing	| Quantum computing · E-commerce · Enterprise software · Computational mathematics · Computational physics · Computational chemistry · Computational biology · Computational social science · Computational engineering · Differentiable computing · Computational healthcare · Digital art · Electronic publishing · Cyberwarfare · Electronic voting · Video games · Word processing · Operations research · Educational technology · Document management |
 | Specialized Platform Development | Thermodynamic computing |
 
-# Field Computer Science Wikipedia
+# field - computer science - wikipedia
 
 | Theoretical computer science | Subfield |
 | :---: | --- |
