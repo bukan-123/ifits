@@ -2,11 +2,12 @@ daftar isi
 - [1] computer science - wikipedia
 - [2] field - computer science - wikipedia
 - [3] taxonomy - application software - wikipedia
+- [4] video games - wikipedia
 
 # [1] computer science - wikipedia
 Note: This template roughly follows the 2012 ACM Computing Classification System.
 
-| Field | Subfield |
+| Field |  |
 | :---: | --- |
 | Hardware | Printed circuit board · Peripheral · Integrated circuit · Very-large-scale integration · System on a chip (SoC) · Energy consumption (green computing) · Electronic design automation · Hardware acceleration · Processor · Size / Form |
 | Computer systems organization	| Computer architecture · Computational complexity · Dependability · Embedded system · Real-time computing · Cyber-physical system · Fault tolerance · Wireless sensor network |
@@ -36,7 +37,7 @@ Note: This template roughly follows the 2012 ACM Computing Classification System
 | Data structures and algorithms | Analysis of algorithms · Algorithm design · Data structures · Combinatorial optimization · Computational geometry · Randomized algorithms |
 | Programming language theory and formal methods | Formal semantics	· Type theory ·	Compiler design ·	Programming languages ·	Formal verification ·	Automated theorem proving |
 
-| Applied computer science | Subfield |
+| Applied computer science |  |
 | :---: | --- |
 | Computer graphics and visualization | 2D computer graphics · Computer animation · Rendering	· Mixed reality ·	Virtual reality ·	Solid modeling |
 | Image and sound processing | FFT algorithms	· Image processing · Speech recognition	· Data compression · Medical image computing · Speech synthesis |
@@ -45,7 +46,7 @@ Note: This template roughly follows the 2012 ACM Computing Classification System
 | Software engineering | - |
 | Artificial intelligence | Computational learning theory	· Computer vision · Neural networks · Planning and scheduling · Natural language processing · Computational game theory · Evolutionary computation · Autonomic computing · Representation and reasoning · Pattern recognition · Robotics · Swarm intelligence |
 
-| Computer systems | subfield | 
+| Computer systems |  | 
 | :---: | --- |
 | Computer architecture and microarchitecture | Processing unit · Microarchitecture · Multiprocessing ·	Processor design · Ubiquitous computing · Systems architecture · Operating systems · Input/output · Embedded system · Real-time computing · Dependability · Interpreter |
 | Concurrent, parallel and distributed computing | - |
@@ -55,7 +56,7 @@ Note: This template roughly follows the 2012 ACM Computing Classification System
 
 # [3] taxonomy - application software - wikipedia
 
-| use | e.g. |
+|  |  |
 | :---: | --- |
 | General-purpose | Spreadsheet · Web browser |
 | Communication | Email · Presentation software |
@@ -69,3 +70,13 @@ Note: This template roughly follows the 2012 ACM Computing Classification System
 | Media | 3D computer graphics software · Animation software · Demoscene · Graphic art software ( Raster graphics editor · Vector graphics editor ) · Image organizer · Video editing software · Audio editing software ( Digital audio workstation ) · Music sequencer ( Scorewriter ) · Software art |
 | Hardware engineering | Computer-aided design · Computer-aided engineering · Computer-aided manufacturing · Finite element analysis |
 | Software development | Integrated development environment · Game development tool · HTML editor · License manager · Source code editor · Version control |
+
+# [4] video games - wikipedia
+
+| | |
+| :---: | --- |
+| Platforms | Arcade video game · Game console ( Home console · Handheld console ) · Electronic game ( Audio game · Electronic handheld ) · Online game ( Browser game · Social-network game ) · Mobile game · PC game ( Linux · Mac ) · Virtual reality game |
+| Genres | Action ( Platformer · Shooter ) · Action-adventure · Adventure · Casual · Fighting · Horror ( Survival ) · Music · Party · Puzzle · Role-playing ( Action · Tactical · Turn-based ) · Simulation ( Sports · Racing ) · Strategy |
+| Lists | Arcade games ( highest-grossing ) · Best-selling games ( franchises ) · Most-played mobile games · Games considered the best ( Game of the Year · soundtracks ) · Negative reception · Cancelled games |
+| Development | Producer · Developer ( Designer · Artist · Programmer ) · Design ( Level design ) · Programming ( Engine · AI ) · Graphics · Music · Testing |
+| Related | Adaptations · History |
