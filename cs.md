@@ -30,7 +30,7 @@ Note: This template roughly follows the 2012 ACM Computing Classification System
 
 # [2] field - computer science - wikipedia
 
-| Theoretical computer science | Subfield |
+| Theoretical computer science |  |
 | :---: | --- |
 | Theory of Computation | Automata theory · Formal languages · Computability theory · Computational complexity theory · Models of computation · Quantum computing theory · Logic circuit theory · Cellular automata |
 | Information and coding theory | Coding theory · Channel capacity · Algorithmic information theory · Signal detection theory · Kolmogorov complexity |
